@@ -1,4 +1,4 @@
-# Rareburg Article Feed Generator
+# Article Feed Generator
 
 A simple tool to create RSS/Atom feed for just about any data source.
 
